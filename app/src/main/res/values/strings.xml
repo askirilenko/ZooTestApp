@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ZooTestApp</string>
+    <string name="animal_name">%s</string>
+    <string name="animal_latin_name">( %s )</string>
+    <string name="animal_latin_name_card"> %s </string>
+    <string name="animal_type">Type: %s</string>
+    <string name="animal_active_time">Active time: %s</string>
+    <string name="animal_length">Length: %s ft. - %s ft.</string>
+    <string name="animal_weight">Weight: %s lbs. - %s lbs.</string>
+    <string name="animal_lifespan">Lifespan: %s</string>
+    <string name="animal_habitat">Habitat: %s</string>
+    <string name="animal_diet">Diet: %s</string>
+    <string name="animal_geo_range">Geo range: %s</string>
+
+    <string name="tab_card">Random Animal</string>
+    <string name="tab_list">Animal List</string>
+
+    <string name="button_other_animal">Other animal</string>
+</resources>
